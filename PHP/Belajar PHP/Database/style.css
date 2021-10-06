@@ -1,0 +1,36 @@
+div {
+	margin: 30px auto auto 400px;
+	background-color: #fff;
+	width: 600px;
+}
+h2 {
+	text-align: center;
+	padding-top: 10px;
+}
+.input {
+	width: 300px;
+	height: 30px;
+	border-radius: 10px;
+	background-color: lightblue;
+}
+.alamat {
+	width: 300px;
+	height: 70px;
+	border-radius: 10px;
+	background-color: lightblue;
+	border: 2px black solid;
+}
+.button {
+	margin: 30px auto 20px auto;
+	width: 200px;
+	height: 40px;
+	background-color: #CCCCCC;
+	border-radius: 10px;
+}
+.button:hover {
+	margin: 30px auto 20px auto;
+	width: 200px;
+	height: 40px;
+	background-color: lightgray;
+	border-radius: 10px;
+}
